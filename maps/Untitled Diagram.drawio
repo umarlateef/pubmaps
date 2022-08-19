@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T23:51:52.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WrE915gRPhG4v7z5CRmm" version="20.2.5" type="github"><diagram id="dn0aJ2lBILVWxLDr2Y0J" name="Page-1">7VrbjpswEP0aHluFa5LHkGxaqV2pSrba9qlywQtuDabG5NKvrw0GA85e0ipLt0VaafHxgO05Z5ixiWEvk8MbCrL4moQQG9YkPBj2yrAs27Zn/J9AjhViOs68QiKKwgqbKGCLfkJpWKMFCmEusQpihGCGsi4YkDSFAetggFKy75rdERx2gAxEsDMNAWwDgKFmdotCFlfozG1Zv4UoiuuRzYnsSUBtLIE8BiHZtyD7yrCXlBBWXSWHJcTCe12/rO/pbSZGYcqecgNIdp6/+7J6t/4EPt183Ofhrf/Kqp6yA7iQC5aTZcfaAzDkDpFNPhRixw3EgCGSXqkeP2eAsoVwODdLSSowmIY9JIdRUk2X82v7QUF3UEzP5A1KijQsW6KrmoYY+97lSignBQ3gA2ucStkAGkH2gJ2pWOF6hiSBjB75jbRc7q47ESB1FTV2yvX8Qnr/DCbskQnFhDkkE87IhGLCGpIJd2RCMWEPyYR3HhOEsphEJAW4zULXh8rmPSGZdPM3yNhRVgGgYIRDMUuw7B3C7d6Qbp9qbl/cbnXPY8zLIeHhfYwY3GagXPqel2Rd/wGMopRfB9xdkHKAUQjXvCRCaSRNBHJNdgpI4b7F4cqYcha8H4WoWnxFeQMZ9qLVf09AKmtrqRqtID39uDJMT9/bBPPZd9ZB375RVAItE/ki6FgY01UjyB2kDB4elqSuoLpGrivdukJ2ZaztVbnZFJVxq9R0JhcS3exfi/Xaw48Hu/OHwV7eyoUIji2DjKCU5a0nfxCAUoBn9xTgTHocVk9UjDZT+32S5/8vye4gJE8HILn2SYvlDSkYfxVOXFvj+5HkocguUwkNJKvu5FRmEe9ExLfRC9mRoDCUpRgl35u9dPkoLou8epZo5nwGVfpxxgz1N2Qox3W70rVcLUPNTyQo+1IJyjQ1WfsUpEF8rqTzGGSih/uCIYA3MGAgjUqZsvINJqSN4R2Tl18JYySp40GuVHTI6Odjuj7/E+SYhrsSHLm+WbdcQcgdwnhJMKFq3/Fo8NTjihhkXPjL0vCzGPy1K9aRguyGVG+ckzE1RtHwUeT1EkCdEFpRNLX0KLK8S0WRfvZ3QzIUjHlhVPSTFG32FW3rip6dyAvWxfKCfoY65oUxL7ywKBo8L+jn32uAMOGr5OimUtqYJEZ5P0ne/cONua7uJm88z+ZB/6gw7olHWZ8ra6u3J/b0U9vn3RPrX2i2upzHLwUvWHP9LwXW9HJfCnhT/TKlOo5UP/Cxr34B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-19T23:59:18.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tIiZHj53UEKklLOgS_HT" version="20.2.5" type="github">
+  <diagram id="dn0aJ2lBILVWxLDr2Y0J" name="Page-1">
+    <mxGraphModel dx="2003" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-7" target="amv6Bv_DKFXaXTUwsdWB-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-7" target="amv6Bv_DKFXaXTUwsdWB-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-7" target="amv6Bv_DKFXaXTUwsdWB-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-7" target="amv6Bv_DKFXaXTUwsdWB-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-7" target="amv6Bv_DKFXaXTUwsdWB-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-7" value="AWS" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="310" y="156" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-10" target="amv6Bv_DKFXaXTUwsdWB-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="amv6Bv_DKFXaXTUwsdWB-10" target="amv6Bv_DKFXaXTUwsdWB-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-10" value="Route 53" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="455" y="125" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-11" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="460" y="170" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-12" value="Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="160" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-13" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="160" y="170" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-14" value="Failover Routing" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="630" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-15" value="Route 53" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" parent="1" vertex="1">
+          <mxGeometry x="625" y="166" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fneHSZzNwXMdUGT32wXB-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="amv6Bv_DKFXaXTUwsdWB-16" target="fneHSZzNwXMdUGT32wXB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amv6Bv_DKFXaXTUwsdWB-16" value="S3" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="310" y="276" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fneHSZzNwXMdUGT32wXB-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fneHSZzNwXMdUGT32wXB-1" target="fneHSZzNwXMdUGT32wXB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fneHSZzNwXMdUGT32wXB-1" value="Storage Classes" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="276" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fneHSZzNwXMdUGT32wXB-3" value="TODO:&lt;br&gt;Standard&lt;br&gt;Intelligent Tiering&lt;br&gt;Standard IA (infrequent Access)&lt;br&gt;One Zone IA&lt;br&gt;Glacier&lt;br&gt;Glacier Deep Archive" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="800" y="266" width="187" height="121" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
